@@ -1,0 +1,3 @@
+#define FFS_FLAGS_NONE 0
+#define FFS_FLAGS_DELETE 1
+#define FFS_FLAGS_UPDATE 2
